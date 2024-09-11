@@ -3,7 +3,7 @@
 Linha de pesquisa: Inteligência Computacional  
 Título do projeto de iniciação científica: Método Agrupamento Difuso Multivariado usando Medoids  
 
-Aluno candidato: Thomaz Cabral Corrêa de Araújo  
+Aluno: Thomaz Cabral Corrêa de Araújo  
 
 Sob supervisão: Profa. Dra Renata Maria Cardoso Rodrigues de Souza  
 (Centro de Informática – CIn/UFPE)  
